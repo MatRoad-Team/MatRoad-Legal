@@ -1,0 +1,10 @@
+title: 맛슐랭 (MatChelin)
+description: 맛슐랭 법적 문서 — 개인정보 처리방침 · 이용약관
+theme: jekyll-theme-minimal
+url: https://matroad.app
+permalink: /:title/
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+exclude:
+  - README.md
