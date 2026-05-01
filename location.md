@@ -47,7 +47,7 @@ permalink: /location/
 3. 본인의 위치정보 **열람·정정·삭제** 요청
 4. 위치정보 **제3자 제공 중단** 요청
 
-권리 행사: lavender662713@gmail.com 또는 서비스 내 "내 데이터 내보내기" 기능 이용.
+권리 행사: support@matroad.app 또는 서비스 내 "내 데이터 내보내기" 기능 이용.
 
 ## 제6조 (위치정보 제3자 제공)
 
@@ -63,7 +63,7 @@ permalink: /location/
 ## 제8조 (서비스의 책임)
 
 - 위치정보 관리 책임자: (사업자 등록 후 입력)
-- 위반 시 연락: lavender662713@gmail.com
+- 위반 시 연락: support@matroad.app
 
 ## 부칙
 

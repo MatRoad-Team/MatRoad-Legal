@@ -91,7 +91,7 @@ permalink: /privacy/
 
 권리 행사 또는 분쟁 발생 시 **개인정보 보호책임자**에게 문의:
 - 책임자: (대표자명)
-- 이메일: lavender662713@gmail.com
+- 이메일: support@matroad.app
 - (기타 연락처 보강)
 
 ---

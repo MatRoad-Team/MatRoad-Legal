@@ -15,7 +15,7 @@ title: 맛슐랭 (MatChelin) 법적 문서
 
 ## 문의
 
-- 이메일: lavender662713@gmail.com
+- 이메일: support@matroad.app
 - 사업자: (사업자 등록 후 입력)
 - 주소: (사업자 등록 후 입력)
 
