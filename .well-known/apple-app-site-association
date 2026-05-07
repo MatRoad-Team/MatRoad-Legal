@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["DBXHWJCYZK.com.lavender.sesac.MatRoad"],
+        "components": [
+          { "/": "/review/*", "comment": "리뷰 공유 — DeepLinkParser .review" },
+          { "/": "/wishlist/*", "comment": "가볼곳 공유 — DeepLinkParser .wishlist" },
+          { "/": "/u/*", "comment": "프로필 공유 — DeepLinkParser .user (username 또는 UUID)" },
+          { "/": "/dm/*", "comment": "DM 공유 (#304) — DeepLinkParser .conversation" },
+          { "/": "/reservation/*", "comment": "예약 공유 (#304) — DeepLinkParser .reservation" }
+        ]
+      }
+    ]
+  }
+}
