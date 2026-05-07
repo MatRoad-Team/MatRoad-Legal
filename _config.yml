@@ -6,5 +6,7 @@ permalink: /:title/
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
+include:
+  - .well-known
 exclude:
   - README.md
