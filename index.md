@@ -12,6 +12,7 @@ title: 맛슐랭 (MatChelin) 법적 문서
 - [개인정보 처리방침 (Privacy Policy)](./privacy/)
 - [이용약관 (Terms of Service)](./terms/)
 - [위치정보 이용 약관 (Location Services Terms)](./location/)
+- [마케팅·이벤트 수신 동의 (Marketing & Event Consent)](./marketing/)
 
 ## 문의
 
