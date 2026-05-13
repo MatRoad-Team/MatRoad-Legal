@@ -91,7 +91,7 @@ permalink: /privacy/
 | Apple Push Service | 푸시 알림 | USA |
 | Firebase Cloud Messaging | 푸시 알림 | USA |
 | Firebase Analytics / Crashlytics | 가명 통계·충돌 진단 | USA |
-| Supabase Inc. | 백엔드 DB·스토리지·Edge Functions | USA (AWS us-east-1) |
+| Supabase Inc. | 백엔드 DB·스토리지·Edge Functions | AWS ap-northeast-2 (Seoul) |
 | Hive AI Inc. | 이미지 모더레이션 | USA |
 | Microsoft Corporation (PhotoDNA) | CSAM hash matching | USA |
 | Resend Inc. | 이메일 발송 (피드백·운영 공지) | USA |
